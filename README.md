@@ -34,3 +34,15 @@ dvc repro
 ```bash
 touch fileName.extension
 ```
+
+```bash
+git remote add origin [github repo link]
+```
+
+```bash
+git add . && git commit -m "Comments"
+```
+
+```bash
+git push origin master
+```
